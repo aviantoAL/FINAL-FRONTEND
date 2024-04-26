@@ -1,0 +1,86 @@
+{
+  "users": [],
+  "orders": [
+    {
+      "id": "4346",
+      "wasteType": "organik",
+      "weight": "2",
+      "location": "lamongan",
+      "address": "lamongan",
+      "reward": 4000,
+      "status": "Completed"
+    },
+    {
+      "id": "d717",
+      "wasteType": "plastik",
+      "weight": "3",
+      "location": "ad",
+      "address": "as",
+      "reward": 6000,
+      "status": "Completed"
+    },
+    {
+      "id": "e6d4",
+      "wasteType": "dhak",
+      "weight": "4",
+      "location": "sdh",
+      "address": "wdeh",
+      "reward": 8000,
+      "status": "Completed"
+    },
+    {
+      "id": "f979",
+      "wasteType": "Electronic",
+      "weight": "22",
+      "location": "dsn",
+      "address": "ksk",
+      "reward": 44000,
+      "status": "Completed"
+    },
+    {
+      "id": "556f",
+      "wasteType": "Organic",
+      "weight": "2",
+      "location": "lamongan",
+      "address": "lamongan",
+      "reward": 4000,
+      "status": "Completed"
+    },
+    {
+      "id": "7c4f",
+      "wasteType": "Organic",
+      "weight": "3",
+      "location": "lamongan",
+      "address": "lamongan",
+      "reward": 6000,
+      "status": "Completed"
+    }
+  ],
+  "chats": [
+    {
+      "id": "63da",
+      "sender": "You",
+      "message": "hallo guys"
+    },
+    {
+      "id": "3201",
+      "sender": "You",
+      "message": "boleh minta tolong "
+    },
+    {
+      "id": "a9be",
+      "sender": "Admin",
+      "message": "yoi mas brow"
+    },
+    {
+      "id": "c505",
+      "sender": "You",
+      "message": "hhallo"
+    },
+    {
+      "id": "9976",
+      "sender": "Admin",
+      "message": "iya ada apa"
+    }
+  ]
+}
